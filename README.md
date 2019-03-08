@@ -1,1 +1,2 @@
 # NICAR2019
+NICAR 2019 notes on GitHub
